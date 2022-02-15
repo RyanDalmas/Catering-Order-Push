@@ -1,0 +1,15 @@
+{
+  "timeZone": "America/Los_Angeles",
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "RyBot",
+        "libraryId": "1Ovkiu-26yv-Ey2xksUWtYE53wNSAETmgtz7RalOucCuqeEC1pcd_DQHE",
+        "version": "0",
+        "developmentMode": true
+      }
+    ]
+  }
+}
